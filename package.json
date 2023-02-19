@@ -22,7 +22,7 @@
     "mixitup": "^3.3.1",
     "node-sass": "^8.0.0",
     "normalize.css": "^8.0.1",
-    "rateyo": "^3.0.0-alpha.2",
+    "rateyo": "^2.3.5",
     "sass": "^1.58.0",
     "slick-carousel": "^1.8.1"
   }
