@@ -1350,9 +1350,6 @@
     flex-wrap: wrap;
     margin-bottom: 30px;
 }
-
-.pagination {}
-
 .pagination__list {
     li {
         display: inline-block;
@@ -2174,10 +2171,14 @@
         max-width: 540px;
         width: 100%;
         background-color: #f9f9f9;
-        border: 1px solid #dddddd;
         height: 40px;
         color: #707070;
         padding: 0px 10px;
+        display: block;
+        border: 1px solid #d7d7d7;
+        &::placeholder {
+            color: #707070;
+        }
     }
 }
 
